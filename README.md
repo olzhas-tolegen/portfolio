@@ -6,24 +6,6 @@ This repository is the central portfolio map that connects my enterprise IT deli
 
 ---
 
-## Portfolio Focus
-
-My work is organized around four target capability areas:
-
-1. **AI/ML Technical Program Management**  
-   Program strategy, roadmap execution, cross-functional delivery, ML platform planning, stakeholder alignment, and measurable delivery outcomes.
-
-2. **AI Infrastructure and ML Systems**  
-   High-performance computing, distributed systems, model evaluation, inference optimization, containerized deployment, and cloud-native ML infrastructure.
-
-3. **Cloud Data and Analytics Platforms**  
-   Azure, Databricks, PostgreSQL/PostGIS, Spark, lakehouse architecture, data governance, reporting modernization, and enterprise-scale data delivery.
-
-4. **Applied AI and Geospatial Intelligence**  
-   GIS dashboards, humanitarian project tracking, computer vision systems, ML experimentation, and data-driven decision-support platforms.
-
----
-
 ## Repository Map
 
 | Repository | Purpose | Primary Focus |
@@ -93,21 +75,6 @@ Representative work:
 
 ---
 
-### AI/ML TPM Portfolio (Planned) 
-
-A dedicated portfolio for AI/ML Technical Program Manager roles, focused on translating complex AI, cloud, and data platform initiatives into executable programs.
-
-Key themes:
-
-- AI infrastructure planning
-- ML platform roadmap execution
-- Cross-functional engineering delivery
-- Program operating models
-- Risk, dependency, milestone, and stakeholder management
-- Metrics-driven execution narrative
-
----
-
 ### High-Performance ML Systems (In Progress)
 
 A systems-focused repository aligned with high-performance computing and scalable ML infrastructure.
@@ -152,14 +119,6 @@ Representative work:
 | GIS | Leaflet.js, GeoJSON, PostGIS, spatial indexing |
 | Analytics | Pandas, notebooks, reporting pipelines, reproducibility docs |
 | Delivery | Roadmaps, program plans, operating models, execution metrics |
-
----
-
-## Portfolio Narrative
-
-My background combines enterprise technology delivery, cloud/data modernization, AI adoption, and large-scale program leadership. This portfolio translates that experience into hands-on technical artifacts that demonstrate the ability to operate at the intersection of engineering, product, cloud infrastructure, data platforms, and AI/ML systems.
-
-The goal is to show that I can both lead complex technical programs and understand the systems deeply enough to make strong architecture, prioritization, and execution decisions.
 
 ---
 
