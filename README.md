@@ -34,9 +34,9 @@ My work is organized around four target capability areas:
 | [`gis-data-analytics-azure-platform`](https://github.com/tolegen-ai/gis-data-analytics-azure-platform) | Azure-hosted GIS analytics platform | PostgreSQL/PostGIS, Azure, Docker, Kubernetes, Terraform, geospatial analytics |
 | [`finance-sales-lakehouse-databricks`](https://github.com/tolegen-ai/finance-sales-lakehouse-spark-databricks) | Enterprise finance and sales analytics platform | Databricks, Spark, lakehouse design, business analytics modernization |
 | [`high-performance-ml-systems`](In progress) | HPC and ML systems portfolio | Parallel computing, distributed systems, GPU/HPC thinking, performance engineering |
-| [`computer-vision-perception-systems`](Planned) | Computer vision and perception systems | Image processing, object detection, tracking, classical/computer vision workflows |
-| [`ai-ml-tpm-portfolio`](Planned) | AI/ML Technical Program Management portfolio | TPM narrative, program artifacts, roadmap ownership, AI platform execution |
-| [`ai-research-engineer-portfolio`](Planned) | AI research and applied ML engineering portfolio | ML experimentation, research summaries, model evaluation, applied AI depth |
+| [`computer-vision-perception-systems`] | Computer vision and perception systems | Image processing, object detection, tracking, classical/computer vision workflows |
+| [`ai-ml-tpm-portfolio`]| AI/ML Technical Program Management portfolio | TPM narrative, program artifacts, roadmap ownership, AI platform execution |
+| [`ai-research-engineer-portfolio`] | AI research and applied ML engineering portfolio | ML experimentation, research summaries, model evaluation, applied AI depth |
 
 
 ---
