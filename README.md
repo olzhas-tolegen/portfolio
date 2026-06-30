@@ -21,19 +21,21 @@ This repository is the central portfolio map that connects my enterprise IT deli
 
 ## Featured Portfolio Systems
 
-### Finance and Sales Lakehouse Platform
+### ML Model Evaluation and Optimization
 
-An enterprise data platform portfolio inspired by real-world sales, finance, and retail analytics modernization.
+A machine learning benchmarking portfolio focused on comparing classical and neural models under controlled experimental conditions.
 
-Target architecture:
+Representative work:
 
-- Databricks
-- Apache Spark / PySpark
-- Azure Data Lake
-- Delta-style lakehouse layers
-- Sales and finance data models
-- Reporting-ready gold datasets
-- Reproducible data pipelines
+- Decision Trees
+- k-Nearest Neighbors
+- Support Vector Machines
+- Scikit-learn MLP
+- PyTorch MLP
+- Learning curves
+- Model complexity analysis
+- Runtime profiling
+- Reproducibility reports
 
 ---
 
@@ -55,21 +57,19 @@ Target architecture:
 
 ---
 
-### ML Model Evaluation and Optimization
+### Finance and Sales Lakehouse Platform
 
-A machine learning benchmarking portfolio focused on comparing classical and neural models under controlled experimental conditions.
+An enterprise data platform portfolio inspired by real-world sales, finance, and retail analytics modernization.
 
-Representative work:
+Target architecture:
 
-- Decision Trees
-- k-Nearest Neighbors
-- Support Vector Machines
-- Scikit-learn MLP
-- PyTorch MLP
-- Learning curves
-- Model complexity analysis
-- Runtime profiling
-- Reproducibility reports
+- Databricks
+- Apache Spark / PySpark
+- Azure Data Lake
+- Delta-style lakehouse layers
+- Sales and finance data models
+- Reporting-ready gold datasets
+- Reproducible data pipelines
 
 ---
 
